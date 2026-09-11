@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.aulas" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>aulas</name>
+    <description>Sample Apache Cordova App</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    
+    <platform name="android">  
+        <icon src="res/mipmap-anydpi-v26/ic_launcher.xml" />
+        <icon monochrome="res/mipmap-mdpi/ic_launcher_monochrome.png" 
+            background="res/mipmap-mdpi/ic_launcher_background.png" 
+            density="mdpi" 
+            foreground="res/mipmap-mdpi/ic_launcher_foreground.png" />
+        <icon monochrome="res/mipmap-hdpi/ic_launcher_monochrome.png" 
+            background="res/mipmap-hdpi/ic_launcher_background.png" 
+            density="hdpi" 
+            foreground="res/mipmap-hdpi/ic_launcher_foreground.png" />
+        <icon monochrome="res/mipmap-xhdpi/ic_launcher_monochrome.png" 
+            background="res/mipmap-xhdpi/ic_launcher_background.png" 
+            density="xhdpi" 
+            foreground="res/mipmap-xhdpi/ic_launcher_foreground.png" />
+        <icon monochrome="res/mipmap-xxhdpi/ic_launcher_monochrome.png" 
+            background="res/mipmap-xxhdpi/ic_launcher_background.png" 
+            density="xxhdpi" 
+            foreground="res/mipmap-xxhdpi/ic_launcher_foreground.png" />
+        <icon monochrome="res/mipmap-xxxhdpi/ic_launcher_monochrome.png" 
+            background="res/mipmap-xxxhdpi/ic_launcher_background.png" 
+            density="xxxhdpi" 
+            foreground="res/mipmap-xxxhdpi/ic_launcher_foreground.png" />
+    </platform>
+</widget>
