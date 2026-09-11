@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-ble-central": {
+      "IOS_INIT_ON_LOAD": "true",
+      "BLUETOOTH_RESTORE_STATE": "false",
+      "BLUETOOTH_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "br.com.aulas"
+    }
+  },
+  "dependent_plugins": {}
+}
